@@ -1,0 +1,97 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'comps2_final.blg'
+[31] biber-MSWIN64:303> INFO - === 
+[57] Biber.pm:359> INFO - Reading 'comps2_final.bcf'
+[164] Biber.pm:835> INFO - Found 113 citekeys in bib section 0
+[179] Biber.pm:3670> INFO - Processing section 0
+[200] Biber.pm:3840> INFO - Looking for bibtex format file 'input/all.bib' for section 0
+[319] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[553] bibtex.pm:1292> INFO - Found BibTeX data source 'input/all.bib'
+[605] Utils.pm:164> WARN - Possible typo (case mismatch) between datasource keys: 'BURGHARDT2009' and 'Burghardt2009' in file 'input/all.bib'
+[618] Utils.pm:164> WARN - Duplicate entry key: 'Haider2017' in file 'input/all.bib', skipping ...
+[620] Utils.pm:164> WARN - Duplicate entry key: 'Ramp2015' in file 'input/all.bib', skipping ...
+[627] Utils.pm:164> WARN - Duplicate entry key: 'Letchford2015' in file 'input/all.bib', skipping ...
+[628] Utils.pm:164> WARN - Duplicate entry key: 'Jacquet2016' in file 'input/all.bib', skipping ...
+[631] Utils.pm:164> WARN - Duplicate entry key: 'Crane2015' in file 'input/all.bib', skipping ...
+[640] Utils.pm:164> WARN - Duplicate entry key: 'Broockman2016' in file 'input/all.bib', skipping ...
+[649] Utils.pm:164> WARN - Duplicate entry key: 'Almasi2015' in file 'input/all.bib', skipping ...
+[650] Utils.pm:164> WARN - Duplicate entry key: 'Luck2009' in file 'input/all.bib', skipping ...
+[650] Utils.pm:164> WARN - Duplicate entry key: 'Moss-Racusin2012' in file 'input/all.bib', skipping ...
+[651] Utils.pm:164> WARN - Duplicate entry key: 'Datta2012' in file 'input/all.bib', skipping ...
+[652] Utils.pm:164> WARN - Duplicate entry key: 'Thaler2013' in file 'input/all.bib', skipping ...
+[685] Utils.pm:164> WARN - ISBN '00063207' in entry 'Bennett2017' is invalid - run biber with '--validate_datamodel' for details.
+[699] Utils.pm:164> WARN - ISBN '0956-7976' in entry 'Schultz2018' is invalid - run biber with '--validate_datamodel' for details.
+[705] Utils.pm:164> WARN - ISBN '00377791' in entry 'Polletta1998' is invalid - run biber with '--validate_datamodel' for details.
+[707] Utils.pm:164> WARN - ISBN '1537260X' in entry 'Ryan2000' is invalid - run biber with '--validate_datamodel' for details.
+[711] Utils.pm:164> WARN - ISBN '1751-9004' in entry 'Maloney2011' is invalid - run biber with '--validate_datamodel' for details.
+[717] Utils.pm:164> WARN - month field 'aug' in entry 'Stern2018' is not an integer - this will probably not sort properly.
+[719] Utils.pm:164> WARN - ISBN '15435938' in entry 'Wilson2007' is invalid - run biber with '--validate_datamodel' for details.
+[721] Utils.pm:164> WARN - ISBN '1743-7199' in entry 'Davis2015' is invalid - run biber with '--validate_datamodel' for details.
+[723] Utils.pm:164> WARN - ISBN '1360-7804' in entry 'Hand2005' is invalid - run biber with '--validate_datamodel' for details.
+[728] Utils.pm:164> WARN - ISBN '0959-3780' in entry 'Cox2016' is invalid - run biber with '--validate_datamodel' for details.
+[729] Utils.pm:164> WARN - ISBN '0022-4537' in entry 'Stern2000' is invalid - run biber with '--validate_datamodel' for details.
+[731] Utils.pm:164> WARN - ISBN '0308-518X' in entry 'Shove2010' is invalid - run biber with '--validate_datamodel' for details.
+[733] Utils.pm:164> WARN - ISBN '1469-0292' in entry 'Carraro2013' is invalid - run biber with '--validate_datamodel' for details.
+[738] Utils.pm:164> WARN - ISBN '0893-3200' in entry 'Guagnano1995' is invalid - run biber with '--validate_datamodel' for details.
+[746] Utils.pm:164> WARN - ISBN '0894-1920 {\%}[ September 12, 2008' in entry 'Vaske1999' is invalid - run biber with '--validate_datamodel' for details.
+[749] Utils.pm:164> WARN - ISBN '10503293' in entry 'Bimber2005' is invalid - run biber with '--validate_datamodel' for details.
+[751] Utils.pm:164> WARN - ISBN '13669877' in entry 'Kahan2011' is invalid - run biber with '--validate_datamodel' for details.
+[761] Utils.pm:164> WARN - ISBN '0963-6625' in entry 'Sturgis2004' is invalid - run biber with '--validate_datamodel' for details.
+[765] Utils.pm:164> WARN - ISBN '1467-923X' in entry 'John2009' is invalid - run biber with '--validate_datamodel' for details.
+[769] Utils.pm:164> WARN - ISBN '0095-8964' in entry 'Hungerford1990' is invalid - run biber with '--validate_datamodel' for details.
+[770] Utils.pm:164> WARN - month field 'mar' in entry 'Hungerford1990' is not an integer - this will probably not sort properly.
+[778] Utils.pm:164> WARN - ISBN '0921-8009' in entry 'Roe1996' is invalid - run biber with '--validate_datamodel' for details.
+[781] Utils.pm:164> WARN - ISBN '0887-0446' in entry 'DeBruijn2007' is invalid - run biber with '--validate_datamodel' for details.
+[782] Utils.pm:164> WARN - ISBN '0883-6612' in entry 'Gardner2011' is invalid - run biber with '--validate_datamodel' for details.
+[784] Utils.pm:164> WARN - ISBN '1464-0597' in entry 'Schwarzer2008' is invalid - run biber with '--validate_datamodel' for details.
+[785] Utils.pm:164> WARN - ISBN '0073-1455' in entry 'Rosenstock1974' is invalid - run biber with '--validate_datamodel' for details.
+[789] Utils.pm:164> WARN - ISBN '1065-9129$\backslash$r1938-274X' in entry 'Raymond2014' is invalid - run biber with '--validate_datamodel' for details.
+[792] Utils.pm:164> WARN - month field 'jan' in entry 'Gneezy2000' is not an integer - this will probably not sort properly.
+[796] Utils.pm:164> WARN - ISBN '0022-4545' in entry 'DeGroot2009' is invalid - run biber with '--validate_datamodel' for details.
+[800] Utils.pm:164> WARN - ISBN '1873-4138 (Electronic) 0309-1740 (Linking)' in entry 'Slovic1987' is invalid - run biber with '--validate_datamodel' for details.
+[802] Utils.pm:164> WARN - ISBN '0272-4944' in entry 'Kaplan2009' is invalid - run biber with '--validate_datamodel' for details.
+[806] Utils.pm:164> WARN - ISBN '1460-2466' in entry 'Rimal2001' is invalid - run biber with '--validate_datamodel' for details.
+[808] Utils.pm:164> WARN - ISBN '0033-295X (Print)$\backslash$r0033-295X (Linking)' in entry 'Bandura1977' is invalid - run biber with '--validate_datamodel' for details.
+[810] Utils.pm:164> WARN - ISBN '0021-4892 (Print)$\backslash$r0021-4892 (Linking)' in entry 'Haidt2001' is invalid - run biber with '--validate_datamodel' for details.
+[816] Utils.pm:164> WARN - ISBN '1089-2680' in entry 'DeHoog2007' is invalid - run biber with '--validate_datamodel' for details.
+[819] Utils.pm:164> WARN - ISBN '0033-2909$\backslash$r1939-1455' in entry 'Hagger2010' is invalid - run biber with '--validate_datamodel' for details.
+[821] Utils.pm:164> WARN - ISBN '0022-3514, 0022-3514' in entry 'Chaiken1980' is invalid - run biber with '--validate_datamodel' for details.
+[823] Utils.pm:164> WARN - month field 'mar' in entry 'Vastfjall2016' is not an integer - this will probably not sort properly.
+[827] Utils.pm:164> WARN - ISBN '0308-518X' in entry 'Shove2007' is invalid - run biber with '--validate_datamodel' for details.
+[832] Utils.pm:164> WARN - ISBN '0066-4308$\backslash$r978-0-8243-0259-7' in entry 'Evans2008' is invalid - run biber with '--validate_datamodel' for details.
+[837] Utils.pm:164> WARN - ISBN '0738-1360' in entry 'Deci1976' is invalid - run biber with '--validate_datamodel' for details.
+[842] Utils.pm:164> WARN - month field 'sep' in entry 'Heft2012' is not an integer - this will probably not sort properly.
+[852] Utils.pm:164> WARN - ISBN '00463663' in entry 'Agarwal1992' is invalid - run biber with '--validate_datamodel' for details.
+[854] Utils.pm:164> WARN - ISBN '0360-0572' in entry 'Hitlin2004' is invalid - run biber with '--validate_datamodel' for details.
+[856] Utils.pm:164> WARN - ISBN '1743-7199$\backslash$r1743-7202' in entry 'Sniehotta2014' is invalid - run biber with '--validate_datamodel' for details.
+[871] Utils.pm:164> WARN - ISBN '0887378X' in entry 'Greenhalgh2004' is invalid - run biber with '--validate_datamodel' for details.
+[872] Utils.pm:164> WARN - ISBN '0144-6665 (Print)$\backslash$r0144-6665 (Linking)' in entry 'Haslam2001' is invalid - run biber with '--validate_datamodel' for details.
+[877] Utils.pm:164> WARN - BibTeX subsystem: C:\Users\Owner\AppData\Local\Temp\PtXDyhlRdN\all.bib_776.utf8, line 9242, warning: possible runaway string started at line 9241
+[1144] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1144] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1144] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[1144] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1263] bbl.pm:608> INFO - Writing 'comps2_final.bbl' with encoding 'ascii'
+[1268] Utils.pm:164> WARN - The entry 'Bandura1977' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1271] Utils.pm:164> WARN - The entry 'Bennett2017' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1273] Utils.pm:164> WARN - The entry 'Bourdieu1990' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1276] Utils.pm:164> WARN - The entry 'Carraro2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1283] Utils.pm:164> WARN - The entry 'Deci1976' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1287] Utils.pm:164> WARN - The entry 'Gneezy2000' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1295] Utils.pm:164> WARN - The entry 'Kahan2012' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1297] Utils.pm:164> WARN - The entry 'Kaplan2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1301] Utils.pm:164> WARN - The entry 'Mascia2018' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1304] Utils.pm:164> WARN - The entry 'Petty1986' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1306] Utils.pm:164> WARN - The entry 'Polletta1998' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1309] Utils.pm:164> WARN - The entry 'Raymond2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1312] Utils.pm:164> WARN - The entry 'Ryan2000' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1315] Utils.pm:164> WARN - The entry 'Schwartz1977' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1318] Utils.pm:164> WARN - The entry 'Schwarzer2008' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1320] Utils.pm:164> WARN - The entry 'Shove2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1321] Utils.pm:164> WARN - The entry 'Sniehotta2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1324] Utils.pm:164> WARN - The entry 'Sturgis2004' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1325] Utils.pm:164> WARN - The entry 'Teel2018' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1328] Utils.pm:164> WARN - The entry 'Vaske1999' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1331] Utils.pm:164> WARN - The entry 'Vastfjall2016' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1333] bbl.pm:712> INFO - Output to comps2_final.bbl
+[1334] Biber.pm:109> INFO - WARNINGS: 81
