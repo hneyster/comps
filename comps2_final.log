@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.7)  13 NOV 2018 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.7)  14 NOV 2018 14:06
 entering extended mode
 **./comps2_final.tex
 (comps2_final.tex
@@ -1040,10 +1040,29 @@ G,.JBIG2,.JB2,.eps]
 ) ABD: EveryShipout initializing macros [1
 
 {C:/Users/Owner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
+Overfull \hbox (22.71054pt too wide) in paragraph at lines 73--73
+\OT1/cmr/m/n/12 Stern2018.. 
+ []
+
+
+Overfull \hbox (22.71054pt too wide) in paragraph at lines 73--73
+\OT1/cmr/m/n/12 Stern2018.. 
+ []
+
+
+Overfull \hbox (22.71054pt too wide) in paragraph at lines 73--73
+\OT1/cmr/m/n/12 Stern2018.. 
+ []
+
+
+Overfull \hbox (22.71054pt too wide) in paragraph at lines 73--73
+\OT1/cmr/m/n/12 Stern2018.. 
+ []
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [4] [5]
+[4] [5]
 Overfull \hbox (6.55081pt too wide) in alignment at lines 88--111
  [] [] 
  []
@@ -1064,91 +1083,140 @@ Overfull \hbox (6.55081pt too wide) in alignment at lines 131--148
  []
 
 [6] [7]
-<input/systematic.jpg, id=34, 794.97pt x 578.16pt>
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+[8]
+<input/systematic.jpg, id=38, 794.97pt x 578.16pt>
 File: input/systematic.jpg Graphic file (type jpg)
 <use input/systematic.jpg>
-Package pdftex.def Info: input/systematic.jpg  used on input line 191. on input
- line 191.
+Package pdftex.def Info: input/systematic.jpg  used on input line 194. on input
+ line 194.
 Package pdftex.def Info: Requested size: 469.75502pt x 341.64958pt on input lin
-e 191.
+e 194.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 190--192
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 193--195
  [] 
  []
 
-[8] [9 <./input/systematic.jpg>]
-<input/meta.jpg, id=43, 1084.05pt x 650.43pt>
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+[9 <./input/systematic.jpg>]
+<input/meta.jpg, id=44, 1084.05pt x 650.43pt>
 File: input/meta.jpg Graphic file (type jpg)
 <use input/meta.jpg>
-Package pdftex.def Info: input/meta.jpg  used on input line 203. on input line 
-203.
+Package pdftex.def Info: input/meta.jpg  used on input line 211. on input line 
+211.
 Package pdftex.def Info: Requested size: 469.75502pt x 297.4646pt on input line
- 203.
+ 211.
 
 
-LaTeX Warning: Float too large for page by 6.38618pt on input line 207.
+LaTeX Warning: Float too large for page by 6.38618pt on input line 215.
 
-[10] [11 <./input/meta.jpg>] [12] [13]
-<input/fact.jpg, id=59, 1084.05pt x 650.43pt>
-File: input/fact.jpg Graphic file (type jpg)
-<use input/fact.jpg>
-Package pdftex.def Info: input/fact.jpg  used on input line 259. on input line 
-259.
-Package pdftex.def Info: Requested size: 469.75502pt x 334.53354pt on input lin
-e 259.
-
-
-LaTeX Warning: Float too large for page by 48.21954pt on input line 263.
-
-[14] [15 <./input/fact.jpg>] [16] [17] [18]
-Overfull \hbox (1.88466pt too wide) in paragraph at lines 313--314
-\OT1/cmr/m/n/12 The In-ter-nal Per-ceived Lo-cus of Con-trol (IPLOC) ([][]DeCha
-rms, 1968) re-flects how au-tonomous
+[10] [11 <./input/meta.jpg>]
+Overfull \hbox (1.1691pt too wide) in paragraph at lines 236--236
+[][][][]\OT1/cmr/m/n/12 rewrite 
  []
 
-[19]
-Overfull \hbox (0.22714pt too wide) in paragraph at lines 319--320
-\OT1/cmr/m/n/12 `Exploration' draws largely from the ed-u-ca-tion and en-vi-ron
--men-tal psy-chol-ogy the-o-ries. These
+
+Overfull \hbox (1.1691pt too wide) in paragraph at lines 236--236
+[][][][]\OT1/cmr/m/n/12 rewrite 
+ []
+
+
+Overfull \hbox (1.1691pt too wide) in paragraph at lines 236--236
+[][][][]\OT1/cmr/m/n/12 rewrite 
+ []
+
+
+Overfull \hbox (1.1691pt too wide) in paragraph at lines 236--236
+[][][][]\OT1/cmr/m/n/12 rewrite 
+ []
+
+[12] [13]
+<input/fact.jpg, id=60, 1084.05pt x 650.43pt>
+File: input/fact.jpg Graphic file (type jpg)
+<use input/fact.jpg>
+Package pdftex.def Info: input/fact.jpg  used on input line 264. on input line 
+264.
+Package pdftex.def Info: Requested size: 469.75502pt x 334.53354pt on input lin
+e 264.
+
+
+LaTeX Warning: Float too large for page by 48.21954pt on input line 268.
+
+[14] [15 <./input/fact.jpg>]
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+[16] [17]
+Overfull \hbox (18.2717pt too wide) in paragraph at lines 292--292
+[][][][]\OT1/cmr/m/n/12 sometimes 
+ []
+
+
+Overfull \hbox (18.2717pt too wide) in paragraph at lines 292--292
+[][][][]\OT1/cmr/m/n/12 sometimes 
+ []
+
+
+Overfull \hbox (18.2717pt too wide) in paragraph at lines 292--292
+[][][][]\OT1/cmr/m/n/12 sometimes 
+ []
+
+
+Overfull \hbox (18.2717pt too wide) in paragraph at lines 292--292
+[][][][]\OT1/cmr/m/n/12 sometimes 
+ []
+
+[18] [19]
+Overfull \hbox (2.48918pt too wide) in paragraph at lines 318--319
+\OT1/cmr/m/n/12 The \OT1/cmr/m/it/12 In-ter-nal Per-ceived Lo-cus of Con-trol (
+IPLOC) \OT1/cmr/m/n/12 ([][]DeCharms, 1968) re-flects how au-tonomous
  []
 
 [20]
-<input/unif.jpg, id=84, 794.97pt x 578.16pt>
+<input/unif.jpg, id=85, 794.97pt x 578.16pt>
 File: input/unif.jpg Graphic file (type jpg)
 <use input/unif.jpg>
-Package pdftex.def Info: input/unif.jpg  used on input line 331. on input line 
-331.
+Package pdftex.def Info: input/unif.jpg  used on input line 336. on input line 
+336.
 Package pdftex.def Info: Requested size: 469.75502pt x 341.64958pt on input lin
-e 331.
+e 336.
 
 
-LaTeX Warning: Float too large for page by 6.38617pt on input line 335.
+LaTeX Warning: Float too large for page by 6.38617pt on input line 340.
 
-<input/unifdiag.jpg, id=86, 821.31844pt x 618.05907pt>
+<input/unifdiag.jpg, id=87, 821.31844pt x 618.05907pt>
 File: input/unifdiag.jpg Graphic file (type jpg)
 <use input/unifdiag.jpg>
-Package pdftex.def Info: input/unifdiag.jpg  used on input line 343. on input l
-ine 343.
+Package pdftex.def Info: input/unifdiag.jpg  used on input line 348. on input l
+ine 348.
 Package pdftex.def Info: Requested size: 469.75502pt x 353.49504pt on input lin
-e 343.
+e 348.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 343--345
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 348--350
  [][] 
  []
 
-<input/unifact.jpg, id=88, 939.51pt x 650.43pt>
+[21] [22 <./input/unif.jpg>] [23 <./input/unifdiag.jpg>]
+<input/unifact.jpg, id=100, 939.51pt x 650.43pt>
 File: input/unifact.jpg Graphic file (type jpg)
 <use input/unifact.jpg>
-Package pdftex.def Info: input/unifact.jpg  used on input line 356. on input li
-ne 356.
+Package pdftex.def Info: input/unifact.jpg  used on input line 361. on input li
+ne 361.
 Package pdftex.def Info: Requested size: 469.75502pt x 346.1852pt on input line
- 356.
+ 361.
 
-LaTeX Warning: Float too large for page by 18.55286pt on input line 360.
 
-[21] [22 <./input/unif.jpg>] [23 <./input/unifdiag.jpg>] [24 <./input/unifact.j
-pg>] [25] [26] [27] [28] [29]
-Overfull \hbox (7.21877pt too wide) in paragraph at lines 376--376
+LaTeX Warning: Float too large for page by 18.55286pt on input line 365.
+
+[24] [25 <./input/unifact.jpg>] [26] [27] [28] [29]
+Overfull \hbox (7.21877pt too wide) in paragraph at lines 381--381
 \OT1/cmr/m/n/12 a-tion for the Ad-vance-ment of Sci-ence Sta-ble URL : http://w
 ww.jstor.org/stable/1698637
  []
@@ -1159,13 +1227,13 @@ Package logreq Info: Writing requests to 'comps2_final.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22075 strings out of 493322
- 427454 string characters out of 3130211
- 880007 words of memory out of 3000000
- 25243 multiletter control sequences out of 15000+200000
- 11356 words of font info for 41 fonts, out of 3000000 for 9000
+ 22233 strings out of 493322
+ 431110 string characters out of 3130211
+ 903830 words of memory out of 3000000
+ 25400 multiletter control sequences out of 15000+200000
+ 11702 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,59p,4335b,2128s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,76p,4335b,2161s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Owner/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/Owner/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/Owner/AppData/Local/Programs/MiKTeX 2.9/f
@@ -1174,11 +1242,12 @@ MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Owner/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Owner
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
 Users/Owner/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-ti12.pfb><C:/Users/Owner/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmtt12.pfb>
-Output written on comps2_final.pdf (31 pages, 7286383 bytes).
+ti10.pfb><C:/Users/Owner/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti12.pfb><C:/Users/Owner/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmtt12.pfb>
+Output written on comps2_final.pdf (31 pages, 7304910 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 159 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
